@@ -1,0 +1,5 @@
+Publicable key goes on the form
+and prvate key reside on the server which no one should see
+npm init
+npm install --save express stripe express-hamdlebars body-parser
+npm install -g nodemon
